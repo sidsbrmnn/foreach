@@ -1,0 +1,25 @@
+{
+  "name": "foreach",
+  "version": "1.0.0",
+  "description": "forEach implementation for Arrays/NodeLists/Objects",
+  "main": "foreach.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sidsbrmnn/foreach.git"
+  },
+  "keywords": [],
+  "author": "Siddharth Subramanian <sidsbrmnn@gmail.com> (sidsbrmnn.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sidsbrmnn/foreach/issues"
+  },
+  "homepage": "https://github.com/sidsbrmnn/foreach#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {}
+}
